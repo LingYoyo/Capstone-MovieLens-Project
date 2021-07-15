@@ -1,2 +1,3 @@
 # Capstone-MovieLens-Project
 EDX HarvardX Data Science Course:  Capstone MovieLens Project 
+This MovieLens project is created for EDX HarvardX Data Science Course. During this project, the training of the algorithms and modeling are expected. The Root Mean Square Error (short for RMSE) will be used to evaluate the accuracy which is the closeness of multiple predictions to the true values in the validation set. The formula of computing RMSE is sqrt(mean((true_ratings - predicted_ratings)ˆ2)). The objective of this Movielens project is to create a well performed rating recom- mendation system through machine learning training. The goal of this project is to train an algorithm with RMSE less than 0.86490. The final RMSE I achieved is 0.8627469.
